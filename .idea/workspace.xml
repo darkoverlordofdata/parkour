@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ee0425d-18eb-4c8d-91e3-bbdc6932b892" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/CloseNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/CloseSelected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/HelloWorldz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/PlayBG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/coin7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/coins and rocks/rock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/TexturePacker/runner7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/background.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/background.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/background.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/helloBG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/jump.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/jump.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/map00.tmx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/map01.tmx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/pickup_coin.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/pickup_coin.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/restart_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/restart_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/runner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/running.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/running.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/start_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/res/res/start_s.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.coffee" afterPath="$PROJECT_DIR$/Gruntfile.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Parkour.iml" afterPath="$PROJECT_DIR$/.idea/Parkour.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Parkour.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Parkour" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gruntfile.coffee" />
+        <option value="$PROJECT_DIR$/web/frameworks/runtime-src/proj.android/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.coffee">
+      <alias-task name="build" info="Alias for &quot;clean&quot;, &quot;concat:build&quot;, &quot;coffee:alt&quot;, &quot;uglify&quot;, &quot;copy:res&quot;, &quot;copy:build&quot; tasks." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="clean" />
+        <dependency value="concat:build" />
+        <dependency value="coffee:alt" />
+        <dependency value="uglify" />
+        <dependency value="copy:res" />
+        <dependency value="copy:build" />
+      </alias-task>
+      <alias-task name="get" info="Alias for &quot;bowercopy&quot; task." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="bowercopy" />
+      </alias-task>
+      <alias-task name="gh" info="Alias for &quot;shell:gh&quot; task." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="shell:gh" />
+      </alias-task>
+      <alias-task name="release" info="Alias for &quot;shell:release&quot; task." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="shell:release" />
+      </alias-task>
+      <alias-task name="test" info="Alias for &quot;simplemocha&quot; task." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="simplemocha" />
+      </alias-task>
+      <alias-task name="zip" info="Alias for &quot;compress&quot;, &quot;adbPush&quot; tasks." file-path="$PROJECT_DIR$/Gruntfile.coffee">
+        <dependency value="compress" />
+        <dependency value="adbPush" />
+      </alias-task>
+      <core-task name="adbForceStop" info="Force stop everything associated with package name." file-path="$PROJECT_DIR$/node_modules/grunt-adb-tools/tasks/adb-tools.js" multi="true" />
+      <core-task name="adbInstall" info="Pushes an Android application to an emulator/device." file-path="$PROJECT_DIR$/node_modules/grunt-adb-tools/tasks/adb-tools.js" multi="true" />
+      <core-task name="adbPush" info="Copies a specified file from your development computer to an emulator/device instance." file-path="$PROJECT_DIR$/node_modules/grunt-adb-tools/tasks/adb-tools.js" multi="true">
+        <target value="cocoonjs" />
+      </core-task>
+      <core-task name="adbStart" info="Start an Activity specified by intent." file-path="$PROJECT_DIR$/node_modules/grunt-adb-tools/tasks/adb-tools.js" multi="true" />
+      <core-task name="adbUninstall" info="Removes a package from the system." file-path="$PROJECT_DIR$/node_modules/grunt-adb-tools/tasks/adb-tools.js" multi="true" />
+      <core-task name="bowercopy" info="Copy only the needed files from bower components over to their specified file locations" file-path="$PROJECT_DIR$/node_modules/grunt-bowercopy/tasks/bowercopy.js" multi="true">
+        <target value="packages" />
+      </core-task>
+      <core-task name="browserify" info="Grunt task for browserify." file-path="$PROJECT_DIR$/node_modules/grunt-browserify/tasks/browserify.js" multi="true">
+        <target value="dist" />
+        <target value="example" />
+      </core-task>
+      <core-task name="clean" info="Clean files and folders." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-clean/tasks/clean.js" multi="true">
+        <target value="build" />
+      </core-task>
+      <core-task name="coffee" info="Compile CoffeeScript files into JavaScript" file-path="$PROJECT_DIR$/node_modules/grunt-contrib-coffee/tasks/coffee.js" multi="true">
+        <target value="alt" />
+        <target value="std" />
+      </core-task>
+      <core-task name="compress" info="Compress files." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-compress/tasks/compress.js" multi="true">
+        <target value="cocoonjs" />
+      </core-task>
+      <core-task name="concat" info="Concatenate files." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-concat/tasks/concat.js" multi="true">
+        <target value="build" />
+      </core-task>
+      <core-task name="copy" info="Copy files." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-copy/tasks/copy.js" multi="true">
+        <target value="res" />
+        <target value="build" />
+      </core-task>
+      <core-task name="deps" info="Custom task." file-path="$PROJECT_DIR$/Gruntfile.coffee" multi="false" />
+      <core-task name="shell" info="Run shell commands" file-path="$PROJECT_DIR$/node_modules/grunt-shell/tasks/shell.js" multi="true">
+        <target value="gh" />
+        <target value="release" />
+      </core-task>
+      <core-task name="simplemocha" info="Run tests with mocha" file-path="$PROJECT_DIR$/node_modules/grunt-simple-mocha/tasks/simple-mocha.js" multi="true">
+        <target value="test" />
+      </core-task>
+      <core-task name="uglify" info="Minify files with UglifyJS." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/tasks/uglify.js" multi="true">
+        <target value="dist" />
+      </core-task>
+      <core-task name="watch" info="Run predefined tasks whenever watched files change." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-watch/tasks/watch.js" multi="false" />
+    </gruntfile>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Markdown" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Parkour/web/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <pass-parent-env-vars value="true" />
+      <force value="false" />
+      <verbose value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ee0425d-18eb-4c8d-91e3-bbdc6932b892" name="Default" comment="" />
+      <created>1434183211894</created>
+      <option name="number" value="Default" />
+      <updated>1434183211894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981412" sideWeight="0.49335548" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.50664455" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="daily" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/.cocos-project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21913044">
+          <caret line="133" column="10" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/frameworks/runtime-src/proj.android/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1252174">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/frameworks/runtime-src/proj.android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09391304">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

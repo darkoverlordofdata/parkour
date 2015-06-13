@@ -1,0 +1,12 @@
+lib/prolog.coffee
+lib/src/resources.coffee
+lib/src/globals.coffee
+lib/src/MenuLayer.coffee
+lib/src/PlayScene.coffee
+lib/src/BackgroundLayer.coffee
+lib/src/AnimationLayer.coffee
+lib/src/HudLayer.coffee
+lib/src/GameOverLayer.coffee
+lib/src/Coin.coffee
+lib/src/Rock.coffee
+lib/src/SimpleRecognizer.coffee
